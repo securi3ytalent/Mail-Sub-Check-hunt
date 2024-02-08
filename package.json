@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "name": "email-sub-check-hunt",
+  "description": "Mail-Sub-Check-hunt is a  Node.js tools helps with querying Check if email address is Subdomain. Warning there must be a file name email_list.txt same Directory.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "securityTalent",
+  "license": "ISC"
 }

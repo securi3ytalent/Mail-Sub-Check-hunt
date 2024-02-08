@@ -46,4 +46,4 @@ OR
 If you have any feedback, please reach out to us at thebrandbox101@gmail.com
 
 ## Version
-Current version is 1.0
+Current version is 1.0.0
