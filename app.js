@@ -77,7 +77,7 @@ fs.readFile('email_list.txt', 'utf8', (err, data) => {
 
   const outputData = emailAddresses.map((email) => {
     const info = urlInfo(email);
-    return `${email}  D=${info.domain}  S=${info.subdomain ? info.subdomain : "None"}  TLD:${info.tld}`;
+    return `E=${email}  D=${info.domain}  S=${info.subdomain ? info.subdomain : "None"}  TLD:${info.tld}`;
   }).join('\n\n');
   
   // Save the output to a file
