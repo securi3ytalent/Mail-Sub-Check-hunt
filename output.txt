@@ -1,0 +1,127 @@
+helpdesk@ub.ac.id  D=id  S=ub.ac  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+ekonomi@uma.ac.id  D=id  S=uma.ac  TLD:
+
+univ_medanarea@uma.ac.id  D=id  S=uma.ac  TLD:
+
+ekonomi@uma.ac.id  D=id  S=uma.ac  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+cso@nhsec.co.id  D=id  S=nhsec.co  TLD:
+
+125400811-1234-250info@apdi.idLetak  D=idLetak  S=apdi  TLD:
+
+humas@its.ac.id  D=id  S=its.ac  TLD:
+
+info@rajamitra.co.idsales  D=idsales  S=rajamitra.co  TLD:
+
+info@rajamitra.co.id  D=id  S=rajamitra.co  TLD:
+
+info@rajamitra.co.id  D=id  S=rajamitra.co  TLD:
+
+dti@pelitabangsa.ac.id  D=id  S=pelitabangsa.ac  TLD:
+
+industri@uma.ac.id  D=id  S=uma.ac  TLD:
+
+info@whello.id  D=id  S=whello  TLD:
+
+ppi.civitas.unas@gmail.com  D=unas@gmail  S=ppi.civitas  TLD:com
+
+kominfo@batam.go.id  D=id  S=batam.go  TLD:
+
+info@phitagoras.co.id  D=id  S=phitagoras.co  TLD:
+
+surabaya@phitagoras.co.id  D=id  S=phitagoras.co  TLD:
+
+kerjasama@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+kerjasama@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+lppm@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+Stikespanritahusadabulukumba@yahoo.co.id  D=id  S=yahoo.co  TLD:
+
+Stikespanritahusadabulukumba@yahoo.co.id  D=id  S=yahoo.co  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+ekonomi@uma.ac.id  D=id  S=uma.ac  TLD:
+
+univ_medanarea@uma.ac.id  D=id  S=uma.ac  TLD:
+
+ekonomi@uma.ac.id  D=id  S=uma.ac  TLD:
+
+info@phitagoras.co.id  D=id  S=phitagoras.co  TLD:
+
+surabaya@phitagoras.co.id  D=id  S=phitagoras.co  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+cso@nhsec.co.id  D=id  S=nhsec.co  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+ppi.civitas.unas@gmail.com  D=unas@gmail  S=ppi.civitas  TLD:com
+
+info@rajamitra.co.idsales  D=idsales  S=rajamitra.co  TLD:
+
+info@rajamitra.co.id  D=id  S=rajamitra.co  TLD:
+
+info@rajamitra.co.id  D=id  S=rajamitra.co  TLD:
+
+info@whello.id  D=id  S=whello  TLD:
+
+125400811-1234-250info@apdi.idLetak  D=idLetak  S=apdi  TLD:
+
+industri@uma.ac.id  D=id  S=uma.ac  TLD:
+
+humas@its.ac.id  D=id  S=its.ac  TLD:
+
+lppm@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+dti@pelitabangsa.ac.id  D=id  S=pelitabangsa.ac  TLD:
+
+kerjasama@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+kerjasama@live.undip.ac.id  D=id  S=live.undip.ac  TLD:
+
+helpdesk@ub.ac.id  D=id  S=ub.ac  TLD:
+
+bkd@kalbarprov.go.id  D=id  S=kalbarprov.go  TLD:
+
+  D=  S=None  TLD:
