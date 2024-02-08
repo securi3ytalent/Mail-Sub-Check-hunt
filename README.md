@@ -17,8 +17,7 @@ E= email
 
   
 ## Haw to use
-- [@Securi3yTalent](https://youtu.be/xSxsvUaO4Mk)
-[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://youtu.be/pxPHIY-_R1s "Now in Android: 55")
+[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://youtu.be/xSxsvUaO4Mk "Now in Android: 55")
 
 
 
