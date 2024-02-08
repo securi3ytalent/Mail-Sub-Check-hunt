@@ -1,7 +1,7 @@
 
 ##  Check Email Address In Subdomain 
 
-Mail-Sub-Check-hunt is a  Node.js tools helps with querying Check if email address is Subdomain.
+Mail-Sub-Check-hunt is a  Node.js tools helps with querying Check if email address is Subdomain. Warning there must be a file name email_list.txt same Directory. 
 
 Output Explanation
 ```
