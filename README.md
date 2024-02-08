@@ -24,18 +24,13 @@ E= email
 
 
 ## Deployment
-
-1. Fast need to your device node js install.
-1. Install the required dependencies by running.
-
+1. Fast need to →[Downloads](https://nodejs.org/en) and install node js in your device.
+2. then colone the github repository
 ```bash
-  npm install axios fs cheerio readline
+  git clone https://github.com/securi3ytalent/Mail-Sub-Check-hunt.git
 ```
-2. Run the script using Node.js (node script.js), where script.js is the name of the file containing the code.
+3. Run the script using Node.js (node script.js), where script.js is the name of the file containing the code.
 ```bash
-  node fileExe-finder.js
-```
-```bash
-  node URL-finder.js
+  node app.js
 ```
 
