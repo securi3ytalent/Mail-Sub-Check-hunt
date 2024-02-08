@@ -3,8 +3,8 @@
 
 
 Output Explanation
-E= email
+`E= email
  D= domain info
   S= info.subdomain / info.subdomain
-   TLD: tld info
+   TLD: tld info`
 
