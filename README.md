@@ -25,9 +25,21 @@ E= email
 
 ## Deployment
 1. Fast need to →[Downloads](https://nodejs.org/en) and install node js in your device.
-2. then clone the github repository
+2. clone the github repository
 ```bash
   git clone https://github.com/securi3ytalent/Mail-Sub-Check-hunt.git
+```
+then
+ ```bash
+  cd Mail-Sub-Check-hunt
+```
+Installation on Linux and Windows
+```bash
+  npm install
+```
+OR
+```bash
+  npm install fs
 ```
 3. Run the script using Node.js (node script.js), where script.js is the name of the file containing the code.
 ```bash
